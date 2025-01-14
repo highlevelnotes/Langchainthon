@@ -1,0 +1,15 @@
+streamlit
+langchain-openai
+langchain-community
+langchain
+langchain-core
+langchain-chroma
+chromadb
+openai
+python-dotenv
+langchain-text-splitters
+langchain-experimental
+
+nltk==3.8.1
+unstructured
+unstructured[pdf]
